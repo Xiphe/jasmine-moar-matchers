@@ -1,0 +1,14 @@
+{
+  "name": "jasmine-moar-matchers",
+  "authors": [
+    "Hannes Diercks"
+  ],
+  "description": "Some additional Jasmine 2.0 Matchers.",
+  "main": ["toBeInstanceOf.js", "toBeTypeOf.js", "promises.js"],
+  "keywords": [
+    "jasmine",
+    "matcher"
+  ],
+  "license": "MIT",
+  "ignore": []
+}
