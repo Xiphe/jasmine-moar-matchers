@@ -1,0 +1,30 @@
+{
+  "name": "jasmine-moar-matchers",
+  "version": "0.0.1",
+  "description": "additional matchers for jasmine 2.0",
+  "main": "lib/*.js",
+  "directories": {
+    "test": "lib"
+  },
+  "scripts": {
+    "install": "bower install",
+    "test": "./node_modules/karma/bin/karma start test/karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Xiphe/jasmine-moar-matchers.git"
+  },
+  "keywords": [
+    "test",
+    "jasmine",
+    "matchers"
+  ],
+  "author": "Hannes Diercks <moar-matchers@xiphe.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "karma": "^0.12.24",
+    "karma-chrome-launcher": "^0.1.5",
+    "karma-jasmine": "^0.2.2"
+  }
+}

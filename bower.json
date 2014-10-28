@@ -4,11 +4,18 @@
     "Hannes Diercks"
   ],
   "description": "Some additional Jasmine 2.0 Matchers.",
-  "main": ["toBeInstanceOf.js", "toBeTypeOf.js", "promises.js"],
+  "main": [
+    "toBeInstanceOf.js",
+    "toBeTypeOf.js",
+    "promises.js"
+  ],
   "keywords": [
     "jasmine",
     "matcher"
   ],
   "license": "MIT",
-  "ignore": []
+  "ignore": [],
+  "devDependencies": {
+    "angular": "~1.3.0"
+  }
 }
