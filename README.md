@@ -1,6 +1,8 @@
 jasmine-moar-matchers
 =====================
 
+[![Build Status](https://travis-ci.org/Xiphe/jasmine-moar-matchers.svg)](https://travis-ci.org/Xiphe/jasmine-moar-matchers)
+
 additional matchers for jasmine 2.0
 
 
