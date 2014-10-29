@@ -1,13 +1,15 @@
 {
   "name": "jasmine-moar-matchers",
+  "version": "0.0.1",
   "authors": [
     "Hannes Diercks"
   ],
   "description": "Some additional Jasmine 2.0 Matchers.",
   "main": [
-    "toBeInstanceOf.js",
-    "toBeTypeOf.js",
-    "promises.js"
+    "lib/promises.js",
+    "lib/toAngularEqual.js",
+    "lib/toBeInstanceOf.js",
+    "lib/toBeTypeOf.js"
   ],
   "keywords": [
     "jasmine",

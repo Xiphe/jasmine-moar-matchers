@@ -2,13 +2,10 @@
   "name": "jasmine-moar-matchers",
   "version": "0.0.1",
   "description": "additional matchers for jasmine 2.0",
-  "main": "lib/*.js",
-  "directories": {
-    "test": "lib"
-  },
   "scripts": {
     "install": "bower install",
-    "test": "./node_modules/karma/bin/karma start test/karma.conf.js"
+    "test": "./node_modules/karma/bin/karma start test/karma.conf.js",
+    "watch": "./node_modules/karma/bin/karma start test/karma.conf.js --no-single-run"
   },
   "repository": {
     "type": "git",
