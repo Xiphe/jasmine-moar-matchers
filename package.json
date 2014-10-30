@@ -1,6 +1,6 @@
 {
   "name": "jasmine-moar-matchers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "additional matchers for jasmine 2.0",
   "scripts": {
     "install": "bower install",
